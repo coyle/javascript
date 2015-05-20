@@ -1,4 +1,4 @@
-# YikYak JavaScript Style Guide
+#JavaScript Style Guide
 
 *A slightly modified version of Airbnb's style guide*
 
